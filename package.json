@@ -1,0 +1,25 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oozoo-solutions/node-rest-api.git"
+  },
+  "author": "Matt Williams <matt.williams@leeds.gov.uk> (http://www.leeds.gov.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oozoo-solutions/node-rest-api/issues"
+  },
+  "homepage": "https://github.com/oozoo-solutions/node-rest-api#readme"
+}
